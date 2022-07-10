@@ -1,3 +1,5 @@
 # Linguagem-C
 
-Apenas alguns códigos aleatórios na linguagem C. :)
+Apenas alguns códigos aleatórios na linguagem C. 
+
+:)
